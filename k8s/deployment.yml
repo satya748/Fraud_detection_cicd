@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: fraud-app
-        image: ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/fraud-detection:latest
+        image: 440866538525.dkr.ecr.ap-south-1.amazonaws.com/fraud-detection:latest
         # ↑ Replace ACCOUNT_ID with your AWS account ID
         ports:
         - containerPort: 8501
