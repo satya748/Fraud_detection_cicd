@@ -13,3 +13,6 @@ Thumbs.db
 *.log
 logs/
 .ipynb_checkpoints/
+eksctl.exe
+eksctl_Windows_amd64.zip
+aws.bat
