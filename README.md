@@ -42,3 +42,4 @@ fraud-detection-cicd/
 └── README.md
 ```
 # Updated
+# Deployment ready
